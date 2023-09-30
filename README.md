@@ -26,4 +26,3 @@ Deployment
   Note:Change the homepage url with your username
 Contributing
 Pull requests are welcome! Please follow the guidelines in the contributing: CONTRIBUTING.md file.
-
