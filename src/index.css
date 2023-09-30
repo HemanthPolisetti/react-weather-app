@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  font-family:'Open Sans', sans-serif;
+  background-image: url("C:\Users\Hemanth Polisetti\Documents\WEB DEV\WeatherAPI\weather-api\src\assets\bg.jpg");
+  background-size:cover;
+  backdrop-filter:opacity(0.4);
+} 
+
