@@ -1,4 +1,4 @@
-# React Weather App  
+  # React Weather App  
 Weathero
 Weathero is a simple and easy-to-use web application that provides real-time weather data for any location in the world.
 
