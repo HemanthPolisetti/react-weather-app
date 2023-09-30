@@ -1,8 +1,29 @@
-# React + Vite
+# React Weather App  
+Weathero
+Weathero is a simple and easy-to-use web application that provides real-time weather data for any location in the world.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Features
+Get the current weather conditions for any location in the world
+View the weather forecast for the next few days
+Lightweight and fast application
+Easy to use
+Technologies:
+  React JS with Vite template
+  OpenWeather API
+  Geocoder API
+Installation
+Clone the repository:
+  git clone https://github.com/[your-username]/weathero.git
+Install the dependencies:
+  npm install
+Start the development server:
+  npm run dev
+  The application will be available at http://localhost:5713.
+Deployment
+  To deploy the application to GitHub Pages, run the following command:
+  npm run deploy
+  The application will be deployed to https://[your-username].github.io/weathero/.
+  Note:Change the homepage url with your username
+Contributing
+Pull requests are welcome! Please follow the guidelines in the contributing: CONTRIBUTING.md file.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
